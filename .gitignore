@@ -1,0 +1,30 @@
+# Java / Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+*.class
+
+# Node / Vite
+node_modules/
+dist/
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local env
+.env
+
+# Local planning notes (not published)
+docs/superpowers/
